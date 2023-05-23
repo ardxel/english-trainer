@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext",
+    "sourceMap": false,
+    "esModuleInterop": true,
+    "isolatedModules": false,
+    "allowImportingTsExtensions": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "src",
+    "src"
+  ]
+}
